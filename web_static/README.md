@@ -1,6 +1,6 @@
-# Airbnb Static Web Page
+# Airbnb Static Web
 
-Welcome to the Airbnb-Style Static Web Page project! This project aims 
+Welcome to the Airbnb Static Web project! This project aims 
 to recreate the look and feel of the Airbnb website in a static web page format.
 The project is designed to demonstrate front-end development skills and showcase
 the ability to create visually appealing and responsive user interfaces.
