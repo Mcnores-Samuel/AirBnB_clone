@@ -26,5 +26,5 @@ User-friendly interface that maintains the aesthetics of the Airbnb website.
 Custom styles and fonts to match the Airbnb branding.
 
 # Technologies Used
-HTML5 for structuring the web page content.
-CSS3 for styling and layout.
+- HTML5 for structuring the web page content.
+- CSS3 for styling and layout.
